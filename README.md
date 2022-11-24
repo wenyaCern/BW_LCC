@@ -1,5 +1,4 @@
-# Blastwave model + Local charge conservation
-# Only for Pion (Tried to use dragon model with PID, cannot add LCC into this model sucessfully. Need much mode test and tunning)
+# Blastwave model + Local charge conservation (Only for Pion , used to try the dragon model with PID, cannot add LCC into this model sucessfully. Need much mode test and tunning)
 
 # Add signal : CMW signal and CME siganl
 Switch spatial point correponding to shematic of CMW/CME. Tune the fCMW/fCME = 0 to close the signal part. Note: adding signal needs 
